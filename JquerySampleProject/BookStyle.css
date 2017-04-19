@@ -1,0 +1,41 @@
+.checkbox{
+    width: 20em;
+    overflow: auto;
+}
+.checkbox p{
+    width: 7em;
+    text-align: right;
+}
+.checkbox label{
+    width: 12em;
+    float: right;
+}
+body {
+    background-color: powderblue;
+    background-image: url("Books.png");
+}
+
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+    display:none;
+}
+.hide
+{
+    display: none;
+}
+
+img{
+    max-height: 150px;
+    max-width: 200px;
+    width: 120px;
+    height: 120px;
+}
+a:hover {
+    display: block;
+}
+#img11{
+      display: block;
+  }

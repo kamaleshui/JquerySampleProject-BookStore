@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+body{
+
+    background-image: url("login.png");
+}
+
+#Books {
+    /*background-image: url("login.png");*/
+    background-color: chocolate;
+}
+
+#orderbooks {
+    background-color: #f1f1c1;
+
+}
+.btns{
+    display: inline-block;
+}
+
+.intro1 {
+    font-size: 120%;
+    color: darkblue;
+    background-color: yellow;
+}
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}
+.hide
+{
+    display: none;
+}
+
+.show
+{
+    display: block;
+}
+

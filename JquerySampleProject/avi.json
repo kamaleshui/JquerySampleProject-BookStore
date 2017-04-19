@@ -1,0 +1,25 @@
+{
+  "painting": [
+    {
+      "title": "Clifford",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/68/97/58/689758c26c9f9b00d7d9a4bfb374b6b6.jpg",
+      "price": 15
+    },
+    {
+      "title": "GoodNight Moon",
+      "image": "http://prodimage.images-bn.com/pimages/9780694003617_p0_v2_s1200x630.jpg",
+      "price": 12
+    },
+    {
+      "title": "Fairy Tales",
+      "image": "http://media02.hongkiat.com/children-book-covers/childrens-book-cover-design.jpg",
+      "price": 9
+    },
+    {
+      "title": "Corduroy",
+      "image": "https://a.dilcdn.com/bl/wp-content/uploads/sites/13/2012/07/Corduroy-baby-book.jpg",
+      "price": 10
+    }
+  ]
+
+}

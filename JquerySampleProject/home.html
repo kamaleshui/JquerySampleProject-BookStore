@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="home.js"></script>
+    <link rel="stylesheet" href="BookStyle.css">
+    <script type="javascript" src="load.js"></script>
+</head>
+<div>
+<div id=Welcome>
+    <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+        <h1 onclick="myFunction('Welcomeclick')">Welcome to online book shopping </h1>
+    </marquee>
+</div>
+<h2>Books List<br></h2>
+
+
+<div class="btns">
+<div >
+    <button id="btn1">Children Books List</button>
+  <div id="ChildrenBookclick" class="childclass">
+      <input type="button" id="addtocart" value="addtocart">
+  </div>
+
+</div>
+    <br>
+<div id =AdultBooks>
+    <button id="btn2">Adult Books List</button>
+    <div id="AdultBookclick" class="adultclass">
+
+</div>
+</div>
+</div>
+<div id="cartContent">
+<input type="image" name="submit"
+    alt="addtocartImage" width="1" height="1"
+   src= "http://www.pngmart.com/files/3/Add-To-Cart-Button-PNG-File.png"/>
+</div>
+</div>
+</body>
+
+</html>
